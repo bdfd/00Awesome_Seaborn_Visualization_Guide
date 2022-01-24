@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-21 13:17:17
- * @LastEditTime: 2022-01-24 15:47:11
+ * @LastEditTime: 2022-01-24 15:53:50
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \00Awesome_Seaborn_Visualization_Guide\README.md
@@ -85,3 +85,11 @@ notice: version show on Colab(Google Jupyternotebook on Date: 2022/01/21)
 - [ ] **3. Residplot**
 - [ ] **4. Heatmap**
 - [ ] **5. Clustermap**
+
+### Section 5. Facet Grids, Pair Grids & Joint Grids
+
+- [ ] **1. FacetGrid**
+- [ ] **2. Pairplot**
+- [ ] **3. Pairgrid**
+- [ ] **4. Jointplot**
+- [ ] **5. Jointgrid**
