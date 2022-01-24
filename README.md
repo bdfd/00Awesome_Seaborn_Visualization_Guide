@@ -1,10 +1,10 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-21 13:17:17
- * @LastEditTime: 2022-01-24 15:27:06
+ * @LastEditTime: 2022-01-24 15:47:11
  * @LastEditors: BDFD
  * @Description:
- * @FilePath: \00Seaborn_Common_Visualization\README.md
+ * @FilePath: \00Awesome_Seaborn_Visualization_Guide\README.md
 -->
 
 # Welcome to Seaborn(Matplotlib) Visualization World
@@ -66,11 +66,22 @@ notice: version show on Colab(Google Jupyternotebook on Date: 2022/01/21)
 - [ ] **5. Rugplot**
 - [ ] **6. Distplot**
 
-### Section 3. Distribution Plot
+### Section 3. Categorical Plot
 
-- [ ] **1. Displot**
-- [ ] **2. Histplot**
-- [ ] **3. Kdeplot**
-- [ ] **4. Ecdfplot**
-- [ ] **5. Rugplot**
-- [ ] **6. Distplot**
+- [ ] **1. Catplot**
+- [ ] **2. Stripplot**
+- [ ] **3. Swarmplot**
+- [ ] **4. Boxplot**
+- [ ] **5. Violinplot**
+- [ ] **6. Boxenplot**
+- [ ] **7. Pointplot**
+- [ ] **8. Barplot**
+- [ ] **9. Countplot**
+
+### Section 4. Regression Plot & Matrix Plots
+
+- [ ] **1. Lmplot**
+- [ ] **2. Regplot**
+- [ ] **3. Residplot**
+- [ ] **4. Heatmap**
+- [ ] **5. Clustermap**
