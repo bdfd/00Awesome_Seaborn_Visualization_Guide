@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-01-21 13:17:17
- * @LastEditTime: 2022-01-24 14:07:12
+ * @LastEditTime: 2022-01-24 15:25:26
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \00Seaborn_Common_Visualization\README.md
@@ -51,9 +51,26 @@ notice: version show on Colab(Google Jupyternotebook on Date: 2022/01/21)
 
 ## Viz Graph Table of Contents
 
-- [ ] **1. Distplot (直方图)**
-- [ ] **2. Joinplot (联合分布图)**
-- [ ] **3. Pairplot (矩阵图)**
-- [ ] **4. Barplot (条形图)**
-- [ ] **5. Boxplot (箱型图)**
-- [ ] **6. LM plot (LM 图)**
+### Section 1. Relational Plot
+
+- [ ] **1. Relplot**
+- [ ] **2. Scatterplot**
+- [ ] **3. Lineplot**
+
+### Section 2. Distribution Plot
+
+- [ ] **1. Displot**
+- [ ] **2. Histplot**
+- [ ] **3. Kdeplot**
+- [ ] **4. Ecdfplot**
+- [ ] **5. Rugplot**
+- [ ] **6. Distplot**
+
+### Section 3. Distribution Plot
+
+- [ ] **1. Displot**
+- [ ] **2. Histplot**
+- [ ] **3. Kdeplot**
+- [ ] **4. Ecdfplot**
+- [ ] **5. Rugplot**
+- [ ] **6. Distplot**
